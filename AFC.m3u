@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://d18b4ad3c3cb28e7ca2e72ddfbba6c59.s3.eu-central-1.amazonaws.com/0e87c08b8642613772f387e3e3ee8350/live.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://d18b4ad3c3cb28e7ca2e72ddfbba6c59.s3.eu-central-1.amazonaws.com/0e87c08b8642613772f387e3e3ee8350/live_1080p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://d18b4ad3c3cb28e7ca2e72ddfbba6c59.s3.eu-central-1.amazonaws.com/0e87c08b8642613772f387e3e3ee8350/live_720p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://d18b4ad3c3cb28e7ca2e72ddfbba6c59.s3.eu-central-1.amazonaws.com/0e87c08b8642613772f387e3e3ee8350/live_720p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://d18b4ad3c3cb28e7ca2e72ddfbba6c59.s3.eu-central-1.amazonaws.com/0e87c08b8642613772f387e3e3ee8350/live_480p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://d18b4ad3c3cb28e7ca2e72ddfbba6c59.s3.eu-central-1.amazonaws.com/0e87c08b8642613772f387e3e3ee8350/live_240p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://6797ec351c470f09af4c86b7e556d213.s3.eu-central-1.amazonaws.com/62f0dbe8830915b601a86e5eab11245b/live.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://6797ec351c470f09af4c86b7e556d213.s3.eu-central-1.amazonaws.com/62f0dbe8830915b601a86e5eab11245b/live_1080p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://6797ec351c470f09af4c86b7e556d213.s3.eu-central-1.amazonaws.com/62f0dbe8830915b601a86e5eab11245b/live_720p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://6797ec351c470f09af4c86b7e556d213.s3.eu-central-1.amazonaws.com/62f0dbe8830915b601a86e5eab11245b/live_720p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://6797ec351c470f09af4c86b7e556d213.s3.eu-central-1.amazonaws.com/62f0dbe8830915b601a86e5eab11245b/live_480p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://6797ec351c470f09af4c86b7e556d213.s3.eu-central-1.amazonaws.com/62f0dbe8830915b601a86e5eab11245b/live_240p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 1 HD
+http://195.154.200.168:8004/play/a05l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 2 HD
+http://195.154.200.168:8004/play/a05m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 3 HD
+http://195.154.200.168:8004/play/a05n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 4 HD
+http://195.154.200.168:8004/play/a05o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 5 HD
+http://195.154.200.168:8004/play/a05p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 6 HD
+http://195.154.200.168:8004/play/a05q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 7 HD
+http://195.154.200.168:8004/play/a05r/index.m3u8
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] SSC Sports  [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="SSC SPORT",SSC 1 
+http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="SSC SPORT",SSC 2 
+http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="SSC SPORT",SSC 3 
+http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png" group-title="SSC SPORT",SSC 4 
+http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="SSC SPORT",SSC 5 
+http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="SSC SPORT",SSC 6 
+http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="SSC SPORT",SSC 7 
+http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
+http://193.228.193.179:8000/play/a01n
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
+http://193.228.193.179:8000/play/a01o
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
+http://193.228.193.179:8000/play/a01p
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
+http://193.228.193.179:8000/play/a01q
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
+http://193.228.193.179:8000/play/a01r
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
+http://193.228.193.179:8000/play/a01s
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 7 HD
+http://193.228.193.179:8000/play/a01t
+
+
+#EXTINF:0,|SPO| SSC7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/842
+#EXTINF:0,SSC SPORTS HD 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/841
+#EXTINF:0,|SPO| SSC6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
+#EXTINF:0,|SPO| SSC5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
+#EXTINF:0,|SPO| SSC4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
+#EXTINF:0,|SPO| SSC3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
+#EXTINF:0,|SPO| SSC2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
+#EXTINF:0,|SPO| SSC1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
+
+
+
+
+
+
+
+
+
+
+
+
+aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC91d0FBQUIlMmJMQ0FBQUFBQUFCQUFGd1cwVFFqQUFBT0FmMU8xcW04WSUyYiUyYk1CNmtYQVVrVzlqckhSeHlaTE9qJTJiOTVrRVBnUXhQUElWM2hHMWZYVVI3czYlMmIyU3BIZVd1NTh3TGVGbUhkb0U2OXhXc2lSTGdjOW82Ykt0OXowOXNvMWdXMjFzZmJWdzI0SWM5ejFycG5jNHh1Z2NHQjMxa25pWFdmSlZVRXNKRDBibXpQR1BDb0NzUURYZDk1bjNjMWtRV3RFU2dkcFlRYUFacUFhY0NBNEtRZGVFYzczR09wd2pGZDZIM1Y3JTJibWxpVGxUUGxGWE44YVpwJTJmbyUyYjhIeUxzQUFBQSUzZCRodHRwLXJlZmZlcmVyPWh0dHA6Ly9saW5rcHJvdGVjdC54bXR2cGxheWVyLmNvbQ%3d%3d
+
+
+

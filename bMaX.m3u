@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+
+
+
+
+
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",[$]BEIN SPORTS 2HD
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",[$]BEIN SPORTS 3HD
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",[$]BEIN SPORTS 4HD
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",[$]BEIN SPORTS 5HD
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",[$]BEIN SPORTS 6HD
+http://217.23.4.81:86/BEIN_SPORT_6_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",[$]BEIN SPORTS 7HD
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT NEWS
+https://sectokentest.parkbtcpanel.com/test/chann8/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 1 HD FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 2 HD FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 3 HD FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 1 HD TR
+https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 2 HD TR
+https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 3 HD TR
+https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 4 HD TR
+https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports MAX 1 HD TR
+https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports MAX 2 HD TR
+https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 1 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/170
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 2 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/171
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 3 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/172
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 4 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/173
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 5 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/174
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 6 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/175
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/176
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 8 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 8 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/177
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 9 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 9 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/178
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 10 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 10 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/179
+
+
+

@@ -1,0 +1,407 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| ART Aflam 1
+http://193.228.193.179:8000/play/a08p
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| ART Aflam 2
+http://193.228.193.179:8000/play/a08o
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| ART Cinema
+http://193.228.193.179:8000/play/a08q
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| ART Hekayat
+http://193.228.193.179:8000/play/a08n
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| ART Hekayat 2
+http://193.228.193.179:8000/play/a08m
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Al Safwa
+http://193.228.193.179:8000/play/a082
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Al Yawm
+http://193.228.193.179:8000/play/a07d
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Animal Planet
+http://193.228.193.179:8000/play/a094
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Baby TV
+http://193.228.193.179:8000/play/a07y
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Cinema 1
+http://193.228.193.179:8000/play/a07e
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Cinema 2
+http://193.228.193.179:8000/play/a07f
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Discovery HD
+http://193.228.193.179:8000/play/a07g
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Discovery ID
+http://193.228.193.179:8000/play/a098
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Discovery Science
+http://193.228.193.179:8000/play/a08j
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Disney Channel
+http://193.228.193.179:8000/play/a07h
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| E! HD
+http://193.228.193.179:8000/play/a085
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Enigma HD
+http://193.228.193.179:8000/play/a083
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| FATAFEET
+http://193.228.193.179:8000/play/a096
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| FX HD
+http://193.228.193.179:8000/play/a08l
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Fan HD
+http://193.228.193.179:8000/play/a081
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Fight Box
+http://193.228.193.179:8000/play/a093
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| FilmBox
+http://193.228.193.179:8000/play/a097
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Fine Living
+http://193.228.193.179:8000/play/a09c
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Food Network HD
+http://193.228.193.179:8000/play/a086
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| H2 HD
+http://193.228.193.179:8000/play/a08k
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| HGTV
+http://193.228.193.179:8000/play/a09b
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| History HD
+http://193.228.193.179:8000/play/a07j
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Kids Zone HD
+http://193.228.193.179:8000/play/a07w
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Living
+http://193.228.193.179:8000/play/a09e
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| MOTORVISION
+http://193.228.193.179:8000/play/a09a
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| MTV HD
+http://193.228.193.179:8000/play/a087
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| MTV Live
+http://193.228.193.179:8000/play/a099
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Mezze FHD
+http://193.228.193.179:8000/play/a091
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Movies Action HD
+http://193.228.193.179:8000/play/a07k
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Movies Disney HD
+http://193.228.193.179:8000/play/a07l
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Movies First +2 HD
+http://193.228.193.179:8000/play/a084
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Movies First HD
+http://193.228.193.179:8000/play/a07i
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Movies HD
+http://193.228.193.179:8000/play/a07m
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Musalslat
+http://193.228.193.179:8000/play/a07x
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Musalslat 2
+http://193.228.193.179:8000/play/a092
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Music Now HD
+http://193.228.193.179:8000/play/a07n
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Nat Geo HD
+http://193.228.193.179:8000/play/a07o
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Nat Geo Wild HD
+http://193.228.193.179:8000/play/a07p
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Nickelodeon HD
+http://193.228.193.179:8000/play/a07z
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Rotana Cinema HD
+http://193.228.193.179:8000/play/a08v
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Rotana Classic HD
+http://193.228.193.179:8000/play/a08r
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Rotana Comedy HD
+http://193.228.193.179:8000/play/a08w
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Rotana Drama HD
+http://193.228.193.179:8000/play/a08s
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Rotana Khalijeah HD
+http://193.228.193.179:8000/play/a08t
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Rotana Kids HD
+http://193.228.193.179:8000/play/a08u
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Series Comedy
+http://193.228.193.179:8000/play/a09d
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Series First HD
+http://193.228.193.179:8000/play/a07q
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Sky News
+http://193.228.193.179:8000/play/a080
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Star Movie
+http://193.228.193.179:8000/play/a07r
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Star World
+http://193.228.193.179:8000/play/a07s
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Thikrayat FHD
+http://193.228.193.179:8000/play/a090
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| VH1
+http://193.228.193.179:8000/play/a095
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Yahala Aloula HD
+http://193.228.193.179:8000/play/a07u
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Yahala Cinema HD
+http://193.228.193.179:8000/play/a07v
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| Yahala HD
+http://193.228.193.179:8000/play/a07t
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN BBC Earth 4K
+http://193.228.193.179:8000/play/a08x
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Drama 4K
+http://193.228.193.179:8000/play/a08y
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Fox Crime 4K
+http://193.228.193.179:8000/play/a08b
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Fox Life 4K
+http://193.228.193.179:8000/play/a08c
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Fox Movies 4K
+http://193.228.193.179:8000/play/a088
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Fox Movies Action 4K
+http://193.228.193.179:8000/play/a089
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Fox Rewayat 4K
+http://193.228.193.179:8000/play/a08a
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Gourmet 4K
+http://193.228.193.179:8000/play/a08e
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Movies 1 4K
+http://193.228.193.179:8000/play/a08f
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Movies 2 4K
+http://193.228.193.179:8000/play/a08g
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Movies 3 4K
+http://193.228.193.179:8000/play/a08h
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Movies 4 4K
+http://193.228.193.179:8000/play/a08i
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Series 1 4K
+http://193.228.193.179:8000/play/a08d
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIAاحتياطي",|OSN| beIN Series 2 4K
+http://193.228.193.179:8000/play/a08z
+
+
+#EXTINF:-1 tvg-name="OSN Series First " tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="باقة OSN احتياطي",OSN Series First 
+http://zinachannels.zinamedia.net/ar-s/OSN-SERIES-FIRST/index.m3u8
+#EXTINF:-1 tvg-name="OSN Series  " tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="باقة OSN احتياطي",OSN Series  
+http://zinachannels.zinamedia.net/ar-s/OSN-SERIES/index.m3u8
+#EXTINF:-1  tvg-name="OSN Comedy " tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title="باقة OSN احتياطي",OSN Comedy 
+http://zinachannels.zinamedia.net/ar-s/osn-series-comedy/index.m3u8
+#EXTINF:-1 tvg-name="Star World " tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="باقة OSN احتياطي",Star World 
+http://zinachannels.zinamedia.net/ar-s/Star-World/index.m3u8
+#EXTINF:-1 tvg-name="Fox Crime" tvg-logo="https://cne-eg.com/uploads/logos/20199112934885.png"  group-title="باقة OSN احتياطي",Fox Crime
+http://free1.zinamedia.net/ar-s/Fox-crime-Hd/index.m3u8
+#EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png"    group-title="باقة OSN احتياطي",beIN Series 1 
+http://zinachannels.zinamedia.net/ar-s/Bein-Serise1-HD/index.m3u8
+#EXTINF:-1 tvg-name="beIN Series 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021123838894.png"    group-title="باقة OSN احتياطي",beIN Series 2 
+http://zinachannels.zinamedia.net/ar-s/Bein-Series-2-HD/index.m3u8
+#EXTINF:-1 tvg-name="Bein Groummet " tvg-logo="https://cne-eg.com/uploads/logos/2021123736269.png"    group-title="باقة OSN احتياطي",Bein Groummet 
+http://zinachannels.zinamedia.net/ar-s/Beingourmet/index.m3u8
+#EXTINF:-1 tvg-name="OSN Ya Hala Al Oula" tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="باقة OSN احتياطي",OSN Ya Hala Al Oula
+http://zinachannels.zinamedia.net/ar-s/OSN-Yahal-1/index.m3u8
+#EXTINF:-1 tvg-name="OSN Ya Hala  " tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="باقة OSN احتياطي",OSN Ya Hala  
+http://zinachannels.zinamedia.net/ar-s/osn-yahala-hd/index.m3u8
+#EXTINF:-1 tvg-name="ART Hekayat " tvg-logo="https://content.osn.com/logo/channel/cropped/HK1.png" group-title="باقة OSN احتياطي",ART Hekayat 
+http://zinachannels.zinamedia.net/ar-s/OSN-ART-Hekayat1/index.m3u8
+#EXTINF:-1 tvg-name="ART Hekayat 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HK2.png" group-title="باقة OSN احتياطي",ART Hekayat 2
+http://zinachannels.zinamedia.net/ar-s/ART-Hekayat2/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 1 4K
+http://193.228.193.179:8000/play/a08f
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 2 4K
+http://193.228.193.179:8000/play/a08g
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 3 4K
+http://193.228.193.179:8000/play/a08h
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 4 4K
+http://193.228.193.179:8000/play/a08i
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Series 1 4K
+http://193.228.193.179:8000/play/a08d
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Series 2 4K
+http://193.228.193.179:8000/play/a08z
+#EXTINF:0 tvg-id="ARTAflam1.net" group-title="باقة2 OSN احتياطي",ART Aflam 1
+http://193.228.193.179:8000/play/a08p
+#EXTINF:0 tvg-id="ARTAflam2.net" group-title="باقة2 OSN احتياطي",ART Aflam 2
+http://193.228.193.179:8000/play/a08o
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="باقة2 OSN احتياطي",ART Cinema
+http://193.228.193.179:8000/play/a08q
+#EXTINF:0 tvg-id="ARTHekayat.net" group-title="باقة2 OSN احتياطي",ART Hekayat
+http://193.228.193.179:8000/play/a08n
+#EXTINF:0 tvg-id="ARTHekayat2.net" group-title="باقة2 OSN احتياطي",ART Hekayat 2
+http://193.228.193.179:8000/play/a08m
+#EXTINF:0 tvg-id="baby-tv" group-title="باقة2 OSN احتياطي",Baby TV
+http://193.228.193.179:8000/play/a07y
+#EXTINF:0 tvg-id="FXHD.mx" group-title="باقة2 OSN احتياطي",FX HD
+http://193.228.193.179:8000/play/a08l
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="باقة2 OSN احتياطي",MTV HD
+http://193.228.193.179:8000/play/a087
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Al Safwa
+http://193.228.193.179:8000/play/a082
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Al Yawm
+http://193.228.193.179:8000/play/a07d
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Cinema 1
+http://193.228.193.179:8000/play/a07e
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Cinema 2
+http://193.228.193.179:8000/play/a07f
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Discovery HD
+http://193.228.193.179:8000/play/a07g
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Discovery Science
+http://193.228.193.179:8000/play/a08j
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Disney Channel
+http://193.228.193.179:8000/play/a07h
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN E! HD
+http://193.228.193.179:8000/play/a085
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Enigma HD
+http://193.228.193.179:8000/play/a083
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Fan HD
+http://193.228.193.179:8000/play/a081
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN H2 HD
+http://193.228.193.179:8000/play/a08k
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN History HD
+http://193.228.193.179:8000/play/a07j
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Kids Zone HD
+http://193.228.193.179:8000/play/a07w
+#EXTINF:0 tvg-id="OSNMoviesAction.net" group-title="باقة2 OSN احتياطي",OSN Movies Action HD
+http://193.228.193.179:8000/play/a07k
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Movies Disney HD
+http://193.228.193.179:8000/play/a07l
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Movies First +2 HD
+http://193.228.193.179:8000/play/a084
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Movies First HD
+http://193.228.193.179:8000/play/a07i
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="باقة2 OSN احتياطي",OSN Movies HD
+http://193.228.193.179:8000/play/a07m
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Musalslat
+http://193.228.193.179:8000/play/a07x
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Music Now HD
+http://193.228.193.179:8000/play/a07n
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Nat Geo HD
+http://193.228.193.179:8000/play/a07o
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Nat Geo Wild HD
+http://193.228.193.179:8000/play/a07p
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Nickelodeon HD
+http://193.228.193.179:8000/play/a07z
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Series First HD
+http://193.228.193.179:8000/play/a07q
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Sky News
+http://193.228.193.179:8000/play/a080
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Star Movie
+http://193.228.193.179:8000/play/a07r
+#EXTINF:0 tvg-id="StarWorld.in" group-title="باقة2 OSN احتياطي",OSN Star World
+http://193.228.193.179:8000/play/a07s
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Yahala Aloula HD
+http://193.228.193.179:8000/play/a07u
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",OSN Yahala Cinema HD
+http://193.228.193.179:8000/play/a07v
+#EXTINF:0 tvg-id="rtgtv" group-title="باقة2 OSN احتياطي",OSN Yahala HD
+http://193.228.193.179:8000/play/a07t
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN BBC Earth 4K
+http://193.228.193.179:8000/play/a08x
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Drama 4K
+http://193.228.193.179:8000/play/a08y
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Food Network HD
+http://193.228.193.179:8000/play/a086
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Fox Crime 4K
+http://193.228.193.179:8000/play/a08b
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Fox Life 4K
+http://193.228.193.179:8000/play/a08c
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Fox Movies 4K
+http://193.228.193.179:8000/play/a088
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Fox Movies Action 4K
+http://193.228.193.179:8000/play/a089
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Fox Rewayat 4K
+http://193.228.193.179:8000/play/a08a
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Gourmet 4K
+http://193.228.193.179:8000/play/a08e
+
+
+#EXTINF:-1 tvg-name="Fox rewayat" tvg-logo="https://www.ngmisr.com/wp-content/uploads/2018/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%88%D9%83%D8%B3-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-Fox-Rewayat.png" group-title="باقة ALFA",Fox rewayat
+http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
+#EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="باقة ALFA",Bein Drama 1
+http://zinachannels.zinamedia.net/ar-s/Bein-Drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Al Yawm" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="باقة ALFA",Alfa Al Yawm
+http://zinachannels.zinamedia.net/ar-s/AlYawm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Musalslat " tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png"  tvg-logo="" group-title="باقة ALFA",ALFA Musalslat 
+http://zinachannels.zinamedia.net/ar-s/OSN-Musalsalat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Musalsalat +2 " tvg-logo="https://content.osn.com/logo/channel/cropped/SE4.png" group-title="باقة ALFA",ALFA Musalsalat +2 
+http://zinachannels.zinamedia.net/ar-s/OSN-Musalsalat-2/index.m3u8
+#EXTINF:-1 tvg-name="dizi" tvg-logo="http://timelessdramachannel.com/wp-content/uploads/2020/07/timeless-dizi-channel-logo.png" group-title="باقة ALFA",dizi 
+http://zinachannels.zinamedia.net/ar-s/Dizi-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BADAWYA DRAMA" tvg-logo="" group-title="باقة ALFA",BADAWYA DRAMA
+http://freearabic.zinamedia.net/ar/Drama-Al-Badawya/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",افلام
+http://45.94.31.190:7002/play/a0di
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G CIMA
+http://45.94.31.190:7002/play/a0ch
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G CINEMA
+http://45.94.31.190:7002/play/a0dj
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G CLASSIC
+http://45.94.31.190:7002/play/a0cj
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G DRAMA
+http://45.94.31.190:7002/play/a0ck
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G FILM
+http://45.94.31.190:7002/play/a0cl
+
+
+#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE AFLAM
+http://149.62.183.214:8000/play/a03k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE ALWAN
+http://149.62.183.214:8000/play/a039/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE CINEMA
+http://149.62.183.214:8000/play/a037/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE COMEDY
+http://149.62.183.214:8000/play/a036/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE HEKAYAT
+http://149.62.183.214:8000/play/a03w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE MOSLSALAT
+http://149.62.183.214:8000/play/a03h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE TODAY
+http://149.62.183.214:8000/play/a03g/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST AFLAM
+http://149.62.183.214:8000/play/a03t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST CIMA
+http://149.62.183.214:8000/play/a041/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST CINEMA
+http://149.62.183.214:8000/play/a042/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST COMEDY
+http://149.62.183.214:8000/play/a033/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST TODAY
+http://149.62.183.214:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT AFLAM
+http://45.94.31.190:7002/play/a0cs
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT ALYOOM
+http://45.94.31.190:7002/play/a0ct
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT CINEMA
+http://45.94.31.190:7002/play/a0cu
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT CLASSIC
+http://45.94.31.190:7002/play/a0cv
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT DRAMA
+http://45.94.31.190:7002/play/a0cw
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BELADI TV
+http://45.94.31.190:7004/play/a0cg
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA 1
+http://45.94.31.190:7002/play/a0d1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA 2
+http://45.94.31.190:7002/play/a0d2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",Drama 3
+http://45.94.31.195:7001/play/a0c5
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA ALWAN
+http://45.94.31.190:7002/play/a0d3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM 7KAYAT
+http://45.94.31.190:7003/play/a0cz
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM AFLAM
+http://45.94.31.190:7003/play/a0cn
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM CINEMA
+http://45.94.31.190:7003/play/a0cy
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM EL YOUM
+http://45.94.31.190:7003/play/a0ck
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM TURKY
+http://45.94.31.190:7003/play/a0cx
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM ZAMAN
+http://45.94.31.190:7003/play/a0cv
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF AFLAM
+http://45.94.31.190:7003/play/a0cs
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",shoof cinema
+http://45.94.31.190:7003/play/a0cp
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF DRAMA
+http://45.94.31.190:7002/play/a0df
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF MIX
+http://45.94.31.190:7003/play/a0cq
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF MOSALSALAT
+http://45.94.31.190:7003/play/a0cr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://c785b188c2.s3.amazonaws.com/70b74e875/live.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_1080p60.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_720p60.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_720p30.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_480p30.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_240p30.m3u8|Referer=https://eifohh6cai1.xyz/
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://c785b188c2.s3.amazonaws.com/70b74e875/live.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_1080p60.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_720p60.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_720p30.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_480p30.m3u8|Referer=https://eifohh6cai1.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://c785b188c2.s3.amazonaws.com/70b74e875/live_240p30.m3u8|Referer=https://eifohh6cai1.xyz/
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/F6Ul4KU.png",SSC 1 🇸🇦
+http://103.145.13.31/12/index.m3u8
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/F6Ul4KU.png",SSC 1 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 2 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 3 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 4 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 5 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 1 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC1_Extra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 2 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC2_Extra.m3u8
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/rJY5VbT.png",AD Sports Premium 1 HD 🇦🇪
+http://103.145.13.31/13/index.m3u8 
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/rJY5VbT.png",AD Sports Premium 1 HD 🇦🇪
+http://103.145.13.31/6/index.m3u8
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/wHwvmzp.png",AD Sports Premium 2 HD 🇦🇪
+http://103.145.13.31/14/index.m3u8
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/wHwvmzp.png",AD Sports Premium 2 SD 🇦🇪
+http://103.145.13.31/7/index.m3u8
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/0zOlyTo.png",STARZPLAY•SPORTS•HD 🇦🇪
+http://103.145.13.31/5/index.m3u8 
+
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 1+ 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 2+ 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 3+ 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 4+ 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 5+ 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC5.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC Extra 1 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1_Extra.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC Extra 2 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2_Extra.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC SPORT",فورملا-1 FHD 🇸🇦
+https://shls-live-ak.akamaized.net/out/v1/789c88ad335e4547ad14a84c19a5ba31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD 🇸🇦
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD 🇸🇦
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed FHD 🇸🇦
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed SD 🇸🇦
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_3.m3u8

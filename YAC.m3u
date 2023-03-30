@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,BeIN | BeIN Sport Premium 1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/1
+#EXTINF:0,BeIN | BeIN Sport Premium 2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/2
+#EXTINF:0,BeIN | BeIN Sport Premium 3
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/3
+#EXTINF:0,BeIN | BeIN Sport 1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/4
+#EXTINF:0,BeIN | BeIN Sport 2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/5
+#EXTINF:0,BeIN | BeIN Sport 3
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/6
+#EXTINF:0,BeIN | BeIN Sport 4
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/7
+#EXTINF:0,BeIN | BeIN Sport Premium 1 
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/8
+#EXTINF:0,BeIN | BeIN Sport Premium 2 
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/9
+#EXTINF:0,BeIN | BeIN Sport Premium 3 
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/10
+#EXTINF:0,BeIN | BeIN Sport 1 
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/11
+#EXTINF:0,BeIN | BeIN Sport 2 
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/12
+#EXTINF:0,BeIN | BeIN Sport 3 
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/13
+#EXTINF:0,BeIN | BeIN Sport 4 
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/14
+
+
+
+
